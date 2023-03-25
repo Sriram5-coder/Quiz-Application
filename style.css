@@ -1,0 +1,22 @@
+h1 {
+	text-align: center;
+}
+
+.container {
+	margin: 20px;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+#submit, #reload {
+	display: block;
+	margin: 20px auto;
+}
+
+#result {
+	text-align: center;
+	margin-top: 20px;
+}
